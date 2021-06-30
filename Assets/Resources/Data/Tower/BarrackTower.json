@@ -1,0 +1,17 @@
+{
+    "data": [{
+            "numElement": 2,
+            "level": 1,
+            "numSpawn": 1,
+            "timeSpawn": 1.0,
+            "type": "Warrior"
+        },
+        {
+            "numElement": 3,
+            "level": 2,
+            "numSpawn": 1,
+            "timeSpawn": 1.0,
+            "type": "Warrior"
+        }
+    ]
+}

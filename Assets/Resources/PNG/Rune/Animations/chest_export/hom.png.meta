@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 3293e0f9c71b12b47a04d97d5cc95ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1150797853226429853
+    second: card_1
+  - first:
+      213: 2881395344281567667
+    second: eff_light_1
+  - first:
+      213: -5980481654814224788
+    second: eff_light_2
+  - first:
+      213: 118995219803665203
+    second: eff_phao_hoa/sprite 110002
+  - first:
+      213: 7267833035620496948
+    second: eff_phao_hoa/sprite 110003
+  - first:
+      213: -4588181251501111195
+    second: eff_phao_hoa/sprite 110004
+  - first:
+      213: -5119803710346343714
+    second: eff_phao_hoa/sprite 110005
+  - first:
+      213: 8449493350105140908
+    second: eff_phao_hoa/sprite 110006
+  - first:
+      213: -502401651550126801
+    second: eff_phao_hoa/sprite 110007
+  - first:
+      213: -4563332169618905541
+    second: eff_phao_hoa/sprite 110008
+  - first:
+      213: 1316819664414405914
+    second: eff_phao_hoa/sprite 110009
+  - first:
+      213: -3964105025816772063
+    second: eff_phao_hoa/sprite 110010
+  - first:
+      213: -839690544382924969
+    second: eff_phao_hoa/sprite 110011
+  - first:
+      213: 759457572692513216
+    second: eff_phao_hoa/sprite 110012
+  - first:
+      213: -4598217365046309569
+    second: eff_phao_hoa/sprite 110013
+  - first:
+      213: 1333850429058326241
+    second: eff_phao_hoa/sprite 110014
+  - first:
+      213: 2421117681016146392
+    second: eff_phao_hoa/sprite 110015
+  - first:
+      213: 7058130905516326354
+    second: eff_phao_hoa/sprite 110016
+  - first:
+      213: 1175667991285246643
+    second: eff_phao_hoa/sprite 110017
+  - first:
+      213: -5753309018539037536
+    second: eff_phao_hoa/sprite 110018
+  - first:
+      213: 8596688340521443430
+    second: hom
+  - first:
+      213: -2034318962877846178
+    second: hom_bac
+  - first:
+      213: 3182777738667486571
+    second: nap_dong
+  - first:
+      213: -8546597681195858825
+    second: nap_dong_bac
+  - first:
+      213: -6056413171559893485
+    second: nap_mo
+  - first:
+      213: -9154232219601331867
+    second: nap_mo_bac
+  - first:
+      213: 1374097050574590359
+    second: o_khoa
+  - first:
+      213: -5341990630023622501
+    second: o_khoa_bac
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 57
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 160
+        width: 107
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca0771a8e2e846b9ad4519bef43759d
+      internalID: -1150797853226429853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_light_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 207
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d5f44c34ad74af68dcf743d60d6e6b
+      internalID: 2881395344281567667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_light_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6657adaefc4ecaa7078324dc777f9
+      internalID: -5980481654814224788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110002
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 280
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc4a2674c21420385f5d159fd3130f
+      internalID: 118995219803665203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110003
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 160
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5b880a524cd4d199905a9be390f9fb
+      internalID: 7267833035620496948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110004
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 466
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb25d24fe4a6453aae390c7fb57cfc4
+      internalID: -4588181251501111195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110005
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 573
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f40762ec8f648529c529a2bc67f6ba
+      internalID: -5119803710346343714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110006
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 685
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb812936521e74eb3aa89e97643c8a0a
+      internalID: 8449493350105140908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110007
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 466
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0022c4178db9542109b9eea504b58ab9
+      internalID: -502401651550126801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110008
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 419
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23461f17d539460191473e184ebe40c
+      internalID: -4563332169618905541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110009
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 578
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2d6aa6a56447ea96d9006847d4dab
+      internalID: 1316819664414405914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110010
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 690
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dd3eae83c7743a5ba8204eae8007c0
+      internalID: -3964105025816772063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110011
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 578
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e403f09429649028ed418f85361bd5
+      internalID: -839690544382924969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110012
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 690
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555823858eecf4282b1d5f7ba4a9d507
+      internalID: 759457572692513216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110013
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 419
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14933cfa823c0411b8aa7b7670b8016f
+      internalID: -4598217365046309569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110014
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 531
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b0c37cf5e1943228d14ce005429d17
+      internalID: 1333850429058326241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110015
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 643
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073fc33bd3f2041ea8be6a82d3a3abfa
+      internalID: 2421117681016146392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110016
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 531
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d571940e6bb834a43997e11ff30eddbf
+      internalID: 7058130905516326354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110017
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 643
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c026b595b99cf409db158f15585f7361
+      internalID: 1175667991285246643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eff_phao_hoa/sprite 110018
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 272
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b360210cd54141fa9f2a5c8972254b9
+      internalID: -5753309018539037536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hom
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 203
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e88854498372479aafa9fad3aa3a168
+      internalID: 8596688340521443430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hom_bac
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 268
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c97e47f674b8430797b500becb4a8d9
+      internalID: -2034318962877846178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nap_dong
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 524
+        width: 156
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef53ea8f82d14f19afff751ee20484a
+      internalID: 3182777738667486571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nap_dong_bac
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2
+        width: 276
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2559f78883f84348925bc7d6508dea4
+      internalID: -8546597681195858825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nap_mo
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 254
+        width: 173
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d43f5e43befb4c4aa668125afd189bf
+      internalID: -6056413171559893485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nap_mo_bac
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 207
+        width: 173
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09182929cc8e479e824526ec9fccbb7
+      internalID: -9154232219601331867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o_khoa
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 384
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b939c2d379a645dc967827fa466c33b
+      internalID: 1374097050574590359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o_khoa_bac
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 450
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3410661fa4b4664bdf64b7f250459d
+      internalID: -5341990630023622501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

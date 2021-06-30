@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "/d/MEGAsync/Apero/Blue sword/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 46", "bone": "root", "attachment": "Layer 46" },
+	{ "name": "Layer 54 copy 3", "bone": "root", "attachment": "Layer 54 copy 3" },
+	{ "name": "Group 11", "bone": "root", "attachment": "Group 11" },
+	{ "name": "Group 12", "bone": "root", "attachment": "Group 12" },
+	{ "name": "Group 13", "bone": "root", "attachment": "Group 13" },
+	{ "name": "Group 6", "bone": "root", "attachment": "Group 6" }
+],
+"skins": {
+	"default": {
+		"Layer 46": {
+			"Layer 46": { "x": 1174.5, "y": -531.5, "width": 51, "height": 43 }
+		},
+		"Layer 54 copy 3": {
+			"Layer 54 copy 3": { "x": 1178.5, "y": -560.5, "width": 67, "height": 103 }
+		},
+		"Group 11": {
+			"Group 11": { "x": 1142, "y": -462, "width": 128, "height": 176 }
+		},
+		"Group 12": {
+			"Group 12": { "x": 1137, "y": -309.5, "width": 244, "height": 243 }
+		},
+		"Group 13": {
+			"Group 13": { "x": 1138, "y": -290.5, "width": 308, "height": 263 }
+		},
+		"Group 6": {
+			"Group 6": { "x": 1307, "y": -391, "width": 108, "height": 318 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

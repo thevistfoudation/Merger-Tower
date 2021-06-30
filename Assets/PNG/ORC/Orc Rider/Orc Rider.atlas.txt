@@ -1,0 +1,153 @@
+
+Orc Rider.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Slash_00001
+  rotate: true
+  xy: 489, 3
+  size: 264, 180
+  orig: 315, 216
+  offset: 2, 0
+  index: -1
+Slash_00003
+  rotate: false
+  xy: 897, 296
+  size: 91, 112
+  orig: 112, 131
+  offset: 12, 10
+  index: -1
+body
+  rotate: true
+  xy: 2, 6
+  size: 392, 274
+  orig: 392, 274
+  offset: 0, 0
+  index: -1
+body 2
+  rotate: true
+  xy: 506, 278
+  size: 354, 311
+  orig: 354, 311
+  offset: 0, 0
+  index: -1
+butt
+  rotate: true
+  xy: 809, 47
+  size: 229, 185
+  orig: 232, 187
+  offset: 1, 1
+  index: -1
+chan sau
+  rotate: false
+  xy: 819, 410
+  size: 111, 222
+  orig: 111, 222
+  offset: 0, 0
+  index: -1
+chan trc
+  rotate: false
+  xy: 792, 774
+  size: 160, 229
+  orig: 160, 229
+  offset: 0, 0
+  index: -1
+chan trc 1
+  rotate: false
+  xy: 671, 29
+  size: 136, 247
+  orig: 136, 247
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 614, 636
+  size: 65, 109
+  orig: 67, 111
+  offset: 1, 1
+  index: -1
+ear1
+  rotate: true
+  xy: 954, 921
+  size: 82, 68
+  orig: 84, 70
+  offset: 1, 1
+  index: -1
+fang
+  rotate: true
+  xy: 819, 285
+  size: 123, 76
+  orig: 125, 78
+  offset: 1, 1
+  index: -1
+femoral 2
+  rotate: true
+  xy: 792, 634
+  size: 138, 140
+  orig: 140, 142
+  offset: 1, 1
+  index: -1
+foot 2
+  rotate: false
+  xy: 954, 844
+  size: 72, 75
+  orig: 74, 77
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 278, 269
+  size: 363, 226
+  orig: 365, 229
+  offset: 1, 2
+  index: -1
+head 2
+  rotate: false
+  xy: 278, 634
+  size: 334, 369
+  orig: 336, 371
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: false
+  xy: 990, 320
+  size: 76, 132
+  orig: 78, 134
+  offset: 1, 1
+  index: -1
+mace
+  rotate: true
+  xy: 2, 400
+  size: 603, 274
+  orig: 609, 277
+  offset: 4, 1
+  index: -1
+mouth 1
+  rotate: true
+  xy: 278, 2
+  size: 265, 209
+  orig: 267, 212
+  offset: 1, 2
+  index: -1
+mouth 2
+  rotate: true
+  xy: 614, 703
+  size: 300, 176
+  orig: 302, 178
+  offset: 1, 1
+  index: -1
+smoke
+  rotate: true
+  xy: 932, 454
+  size: 178, 150
+  orig: 180, 152
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 934, 639
+  size: 133, 160
+  orig: 135, 163
+  offset: 1, 1
+  index: -1

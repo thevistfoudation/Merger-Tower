@@ -1,0 +1,55 @@
+
+Tower Mage.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: true
+  xy: 1171, 23
+  size: 220, 206
+  orig: 220, 206
+  offset: 0, 0
+  index: -1
+Group 12
+  rotate: false
+  xy: 934, 2
+  size: 235, 241
+  orig: 237, 243
+  offset: 1, 1
+  index: -1
+Group 13
+  rotate: false
+  xy: 2, 3
+  size: 479, 240
+  orig: 481, 242
+  offset: 1, 1
+  index: -1
+Group 6
+  rotate: true
+  xy: 483, 24
+  size: 219, 449
+  orig: 222, 452
+  offset: 1, 2
+  index: -1
+blurred dot
+  rotate: false
+  xy: 1379, 147
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 1379, 21
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 1379, 75
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1

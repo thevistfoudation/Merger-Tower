@@ -1,0 +1,20 @@
+
+map30_lightglow.png
+size: 715,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 533, 327
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+as2
+  rotate: true
+  xy: 2, 2
+  size: 505, 529
+  orig: 505, 529
+  offset: 0, 0
+  index: -1

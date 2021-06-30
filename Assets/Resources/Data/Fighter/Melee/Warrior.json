@@ -1,0 +1,62 @@
+{
+    "data": [{
+            "fightInfo": {
+                "attackSpeed": 5.0,
+                "minAttackRange": 0.0,
+                "maxAttackRange": 0.5,
+                "damage": {
+                    "critRate": 20,
+                    "critDamage": 200,
+                    "minPhysicDamage": 5,
+                    "maxPhysicDamage": 10,
+                    "minMagicDamage": 0,
+                    "maxMagicDamage": 0,
+                    "minPureDamage": 0,
+                    "maxPureDamage": 0
+                }
+            },
+            "npcCharaterInfo": {
+                "targetRange": 4,
+                "speed": 0.3
+            },
+            "entityInfo": {
+                "armor": 5.0,
+                "magicResistance": 5.0,
+                "lifeSteal": 0,
+                "HP": 100.0
+            },
+            "skill": {},
+            "price": "100"
+        },
+        {
+            "id": 1,
+            "fightInfo": {
+                "attackSpeed": 5.0,
+                "minAttackRange": 0.0,
+                "maxAttackRange": 0.5,
+                "damage": {
+                    "critRate": 20,
+                    "critDamage": 200,
+                    "minPhysicDamage": 5,
+                    "maxPhysicDamage": 10,
+                    "minMagicDamage": 0,
+                    "maxMagicDamage": 0,
+                    "minPureDamage": 0,
+                    "maxPureDamage": 0
+                }
+            },
+            "npcCharaterInfo": {
+                "targetRange": 4,
+                "speed": 0.3
+            },
+            "entityInfo": {
+                "armor": 10.0,
+                "magicResistance": 10.0,
+                "lifeSteal": 10.0,
+                "HP": 200.0
+            },
+            "skill": {},
+            "price": "200"
+        }
+    ]
+}

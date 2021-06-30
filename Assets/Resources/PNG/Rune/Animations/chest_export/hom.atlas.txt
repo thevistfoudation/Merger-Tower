@@ -1,0 +1,202 @@
+
+hom.png
+size: 802,802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card_1
+  rotate: false
+  xy: 557, 524
+  size: 107, 118
+  orig: 107, 118
+  offset: 0, 0
+  index: -1
+eff_light_1
+  rotate: false
+  xy: 254, 575
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+eff_light_2
+  rotate: false
+  xy: 2, 550
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110002
+  rotate: false
+  xy: 557, 412
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110003
+  rotate: false
+  xy: 666, 532
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110004
+  rotate: true
+  xy: 207, 231
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110005
+  rotate: false
+  xy: 160, 119
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110006
+  rotate: false
+  xy: 160, 7
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110007
+  rotate: false
+  xy: 319, 226
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110008
+  rotate: false
+  xy: 426, 273
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110009
+  rotate: false
+  xy: 267, 114
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110010
+  rotate: false
+  xy: 267, 2
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110011
+  rotate: false
+  xy: 374, 114
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110012
+  rotate: false
+  xy: 374, 2
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110013
+  rotate: false
+  xy: 533, 273
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110014
+  rotate: false
+  xy: 481, 161
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110015
+  rotate: false
+  xy: 481, 49
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110016
+  rotate: false
+  xy: 588, 161
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110017
+  rotate: false
+  xy: 588, 49
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+eff_phao_hoa/sprite 110018
+  rotate: false
+  xy: 666, 420
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+hom
+  rotate: true
+  xy: 2, 280
+  size: 268, 203
+  orig: 268, 203
+  offset: 0, 0
+  index: -1
+hom_bac
+  rotate: false
+  xy: 254, 597
+  size: 268, 203
+  orig: 268, 203
+  offset: 0, 0
+  index: -1
+nap_dong
+  rotate: true
+  xy: 2, 2
+  size: 276, 156
+  orig: 276, 156
+  offset: 0, 0
+  index: -1
+nap_dong_bac
+  rotate: false
+  xy: 524, 644
+  size: 276, 156
+  orig: 276, 156
+  offset: 0, 0
+  index: -1
+nap_mo
+  rotate: true
+  xy: 207, 338
+  size: 210, 173
+  orig: 210, 173
+  offset: 0, 0
+  index: -1
+nap_mo_bac
+  rotate: true
+  xy: 382, 385
+  size: 210, 173
+  orig: 210, 173
+  offset: 0, 0
+  index: -1
+o_khoa
+  rotate: true
+  xy: 664, 354
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+o_khoa_bac
+  rotate: true
+  xy: 640, 288
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1

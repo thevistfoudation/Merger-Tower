@@ -1,0 +1,34 @@
+{
+    "data": [
+            {
+                "id":0,
+                "fightInfo": {
+                    "attackSpeed": 10.0,
+                    "attackRange": 0.5,
+                    "damage": {
+                        "critRate": 20,
+                        "critDamage": 0.5,
+                        "attackDamage": 5,
+                        "typeDamage": 0
+                    }
+                },
+                
+                    "price": "100"
+        },
+        {
+            "id":1,
+            "fightInfo": {
+                "attackSpeed": 20.0,
+                "attackRange": 1,
+                "damage": {
+                    "critRate": 40,
+                    "critDamage": 2,
+                    "attackDamage": 20,
+                    "typeDamage": 0
+                }
+            },
+                
+                    "price": "200"
+        }
+    ]
+}

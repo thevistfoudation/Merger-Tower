@@ -1,0 +1,34 @@
+
+Obj1.png
+size: 768,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: false
+  xy: 2, 337
+  size: 452, 427
+  orig: 452, 427
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 2, 19
+  size: 361, 316
+  orig: 361, 316
+  offset: 0, 0
+  index: -1
+da
+  rotate: false
+  xy: 365, 144
+  size: 112, 188
+  orig: 112, 188
+  offset: 0, 0
+  index: -1
+tru
+  rotate: true
+  xy: 456, 334
+  size: 430, 310
+  orig: 430, 310
+  offset: 0, 0
+  index: -1

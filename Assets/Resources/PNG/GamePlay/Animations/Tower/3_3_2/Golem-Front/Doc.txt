@@ -1,0 +1,3 @@
+Atk + Atk2: 0 -> 1234... -> 00
+Idle + Skill + Summon: 0 -> 1234...
+Reload: 00 -> 1234.. -> 0

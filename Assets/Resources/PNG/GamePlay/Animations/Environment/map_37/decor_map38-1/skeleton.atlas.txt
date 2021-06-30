@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 78,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map39_flow01
+  rotate: true
+  xy: 45, 32
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+map39_flow03
+  rotate: false
+  xy: 2, 28
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1

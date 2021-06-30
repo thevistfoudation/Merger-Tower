@@ -1,0 +1,54 @@
+{
+    "data": [{
+            "attackSpeed": 0.1,
+            "minAttackRange": 0.0,
+            "maxAttackRange": 10.0,
+            "damage": {
+                "critRate": 20,
+                "critDamage": 200,
+                "minPhysicDamage": 0,
+                "maxPhysicDamage": 0,
+                "minMagicDamage": 5,
+                "maxMagicDamage": 10,
+                "minPureDamage": 0,
+                "maxPureDamage": 0
+            },
+            "typeBullet": "LaserInfo",
+            "bulletInfo": {
+                "objectShoot": "Laser/LaserShoot",
+                "objectEndShoot": "Laser/LaserEndShoot",
+                "speed": 2,
+                "height": 0.1,
+                "timeDestroy": 4.0,
+                "timeDelayHit": 0.25
+            },
+            "battleEffects": [{
+                "timeEffect": 2,
+                "nameEffect": "Burn"
+            }]
+        },
+        {
+            "attackSpeed": 1.0,
+            "minAttackRange": 0.0,
+            "maxAttackRange": 5.0,
+            "damage": {
+                "critRate": 20,
+                "critDamage": 200,
+                "minPhysicDamage": 0,
+                "maxPhysicDamage": 0,
+                "minMagicDamage": 5,
+                "maxMagicDamage": 10,
+                "minPureDamage": 0,
+                "maxPureDamage": 0
+            },
+            "bulletInfo": {
+                "objectShoot": "Laser/LaserShoot",
+                "objectEndShoot": "Laser/LaserEndShoot",
+                "speed": 2,
+                "height": 0.1,
+                "timeDestroy": 4.0,
+                "timeDelayHit": 0.25
+            }
+        }
+    ]
+}

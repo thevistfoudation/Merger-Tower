@@ -1,0 +1,55 @@
+
+Orc Shaman.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: true
+  xy: 533, 338
+  size: 165, 159
+  orig: 165, 159
+  offset: 0, 0
+  index: -1
+Group 12
+  rotate: true
+  xy: 241, 200
+  size: 303, 290
+  orig: 303, 290
+  offset: 0, 0
+  index: -1
+blurred dot
+  rotate: true
+  xy: 595, 271
+  size: 65, 64
+  orig: 74, 74
+  offset: 4, 5
+  index: -1
+chan
+  rotate: false
+  xy: 533, 242
+  size: 60, 94
+  orig: 60, 96
+  offset: 0, 1
+  index: -1
+head 3
+  rotate: false
+  xy: 241, 2
+  size: 285, 196
+  orig: 287, 198
+  offset: 1, 1
+  index: -1
+smoke
+  rotate: true
+  xy: 528, 20
+  size: 178, 150
+  orig: 180, 152
+  offset: 1, 1
+  index: -1
+staff
+  rotate: false
+  xy: 2, 45
+  size: 237, 458
+  orig: 240, 460
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+Tower Hunter.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: true
+  xy: 314, 30
+  size: 128, 177
+  orig: 130, 177
+  offset: 1, 0
+  index: -1
+Group 12
+  rotate: false
+  xy: 276, 268
+  size: 235, 241
+  orig: 237, 243
+  offset: 1, 1
+  index: -1
+Group 13
+  rotate: true
+  xy: 2, 236
+  size: 273, 272
+  orig: 276, 274
+  offset: 2, 1
+  index: -1
+chan
+  rotate: false
+  xy: 493, 64
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+cung
+  rotate: true
+  xy: 2, 68
+  size: 166, 310
+  orig: 166, 310
+  offset: 0, 0
+  index: -1
+tai
+  rotate: true
+  xy: 2, 2
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+ten
+  rotate: false
+  xy: 314, 160
+  size: 285, 106
+  orig: 287, 108
+  offset: 1, 1
+  index: -1

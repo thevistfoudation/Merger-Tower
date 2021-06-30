@@ -1,0 +1,13 @@
+
+Tower Barrack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 5 copy
+  rotate: false
+  xy: 2, 2
+  size: 453, 457
+  orig: 453, 457
+  offset: 0, 0
+  index: -1

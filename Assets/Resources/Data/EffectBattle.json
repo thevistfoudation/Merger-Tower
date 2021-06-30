@@ -1,0 +1,233 @@
+{
+    "data": {
+        "Stun": {
+            "pathEffect": "EffectBattle/Stun",
+            "battleEffects": [{
+                "type": "MotionLessEffect",
+                "typeInfo": "MotionLessEffectInfo",
+                "data": {
+                    "animationName": "Stun"
+                }
+            }]
+        },
+        "Freeze": {
+            "pathEffect": "EffectBattle/Freeze",
+            "battleEffects": [{
+                    "type": "MotionLessEffect",
+                    "typeInfo": "MotionLessEffectInfo",
+                    "data": {
+                        "animationName": "Freeze"
+                    }
+                },
+                {
+                    "type": "MoreDamageEffect",
+                    "typeInfo": "MoreDamgeEffectInfo",
+                    "data": {
+                        "physicDamage": {
+                            "percent": 0,
+                            "damage": 0
+                        },
+                        "magicDamage": {
+                            "percent": 10,
+                            "damage": 0
+                        },
+                        "pureDamage": {
+                            "percent": 0,
+                            "damage": 0
+                        }
+                    }
+                }
+            ]
+        },
+        "Poison": {
+            "pathEffect": "EffectBattle/Poison",
+            "battleEffects": [{
+                    "type": "TakeDamageEffect",
+                    "typeInfo": "TakeDamageEffectInfo",
+                    "data": {
+                        "percentDamageFollowHP": {
+                            "critRate": 0,
+                            "critDamage": 0,
+                            "physicDamage": 0,
+                            "magicDamage": 0,
+                            "pureDamage": 0
+                        },
+                        "damage": {
+                            "critRate": 0,
+                            "critDamage": 0,
+                            "physicDamage": 1,
+                            "magicDamage": 1,
+                            "pureDamage": 1
+                        },
+                        "timeDelayTakeDamage": 1
+                    }
+                },
+                {
+                    "type": "NPCCharEffect",
+                    "typeInfo": "NPCCharEffectInfo",
+                    "data": {
+                        "percent": {
+                            "targetRange": 0,
+                            "speed": -20
+                        },
+                        "effect": {
+                            "targetRange": 0,
+                            "speed": 0
+                        }
+                    }
+                },
+                {
+                    "type": "FightEffect",
+                    "typeInfo": "FightEffectInfo",
+                    "data": {
+                        "percent": {
+                            "attackSpeed": -20,
+                            "attackRange": 0,
+                            "damage": {
+                                "critRate": 0,
+                                "minPhysicDamage": 0,
+                                "maxPhysicDamage": 0,
+                                "minMagicDamage": 0,
+                                "maxMagicDamage": 0,
+                                "minPureDamage": 0,
+                                "maxPureDamage": 0
+                            }
+                        },
+                        "effect": {
+                            "attackSpeed": 0,
+                            "attackRange": 0,
+                            "damage": {
+                                "critRate": 0,
+                                "minPhysicDamage": 0,
+                                "maxPhysicDamage": 0,
+                                "minMagicDamage": 0,
+                                "maxMagicDamage": 0,
+                                "minPureDamage": 0,
+                                "maxPureDamage": 0
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "Bleed": {
+            "pathEffect": "EffectBattle/Bleed",
+            "battleEffects": [{
+                    "type": "TakeDamageEffect",
+                    "typeInfo": "TakeDamageEffectInfo",
+                    "data": {
+                        "percentDamageFollowHP": {
+                            "critRate": 0,
+                            "critDamage": 0,
+                            "physicDamage": 0,
+                            "magicDamage": 0,
+                            "pureDamage": 0
+                        },
+                        "damage": {
+                            "critRate": 0,
+                            "critDamage": 0,
+                            "physicDamage": 1,
+                            "magicDamage": 1,
+                            "pureDamage": 1
+                        },
+                        "timeDelayTakeDamage": 1
+                    }
+                },
+                {
+                    "type": "FightEffect",
+                    "typeInfo": "FightEffectInfo",
+                    "data": {
+                        "percent": {
+                            "attackSpeed": 0,
+                            "attackRange": 0,
+                            "damage": {
+                                "critRate": 0,
+                                "minPhysicDamage": -30,
+                                "maxPhysicDamage": -30,
+                                "minMagicDamage": -30,
+                                "maxMagicDamage": -30,
+                                "minPureDamage": -30,
+                                "maxPureDamage": -30
+                            }
+                        },
+                        "effect": {
+                            "attackSpeed": 0,
+                            "attackRange": 0,
+                            "damage": {
+                                "critRate": 0,
+                                "minPhysicDamage": 0,
+                                "maxPhysicDamage": 0,
+                                "minMagicDamage": 0,
+                                "maxMagicDamage": 0,
+                                "minPureDamage": 0,
+                                "maxPureDamage": 0
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "Burn": {
+            "pathEffect": "EffectBattle/Burn",
+            "battleEffects": [{
+                "type": "TakeDamageEffect",
+                "typeInfo": "TakeDamageEffectInfo",
+                "data": {
+                    "percentDamageFollowHP": {
+                        "critRate": 0,
+                        "critDamage": 0,
+                        "physicDamage": 5,
+                        "magicDamage": 5,
+                        "pureDamage": 5
+                    },
+                    "damage": {
+                        "critRate": 0,
+                        "critDamage": 0,
+                        "physicDamage": 0,
+                        "magicDamage": 0,
+                        "pureDamage": 0
+                    },
+                    "timeDelayTakeDamage": 1
+                }
+            }]
+        },
+        "Fear": {
+            "battleEffects": [{
+                "type": "FearEffect"
+            }]
+        },
+        "KnockBack": {
+            "battleEffects": [{
+                "type": "KnockBackEffect",
+                "typeInfo": "KnockBackEffectInfo",
+                "data": {
+                    "speed": 2
+                }
+            }]
+        },
+        "OneKill": {
+            "battleEffects": [{
+                "type": "TakeDamageEffect",
+                "typeInfo": "TakeDamageEffectInfo",
+                "data": {
+                    "percentDamageFollowHP": {
+                        "critRate": 0,
+                        "critDamage": 0,
+                        "physicDamage": 100,
+                        "magicDamage": 100,
+                        "pureDamage": 100
+                    },
+                    "damage": {
+                        "critRate": 0,
+                        "critDamage": 0,
+                        "physicDamage": 0,
+                        "magicDamage": 0,
+                        "pureDamage": 0
+                    },
+                    "timeDelayTakeDamage": 0
+                }
+            }]
+        }
+
+    }
+}

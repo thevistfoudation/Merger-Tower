@@ -1,0 +1,5 @@
+Atk + Atk2: 0 -> 1234... -> 00
+Reload: 00 -> 1234.. -> 0
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIyMjI3NzM0Nl19
+-->

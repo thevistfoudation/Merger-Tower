@@ -1,0 +1,76 @@
+
+Soldier Barrack.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: true
+  xy: 813, 18
+  size: 128, 176
+  orig: 128, 176
+  offset: 0, 0
+  index: -1
+Group 12
+  rotate: false
+  xy: 310, 13
+  size: 235, 241
+  orig: 237, 243
+  offset: 1, 1
+  index: -1
+Group 13
+  rotate: false
+  xy: 2, 45
+  size: 306, 209
+  orig: 308, 211
+  offset: 1, 1
+  index: -1
+Group 6
+  rotate: true
+  xy: 813, 148
+  size: 106, 314
+  orig: 108, 318
+  offset: 1, 2
+  index: -1
+Slash_00001
+  rotate: false
+  xy: 547, 74
+  size: 264, 180
+  orig: 315, 216
+  offset: 2, 0
+  index: -1
+Slash_00003
+  rotate: false
+  xy: 991, 34
+  size: 91, 112
+  orig: 112, 131
+  offset: 12, 10
+  index: -1
+chan
+  rotate: true
+  xy: 547, 5
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+quai
+  rotate: false
+  xy: 709, 8
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 1129, 76
+  size: 178, 150
+  orig: 180, 152
+  offset: 1, 1
+  index: -1
+tai
+  rotate: false
+  xy: 643, 2
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: move_up
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: b189196763c4f854187d3f53828f5192, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: d262e76a7a9475b4fac086f4e23ca632, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300000, guid: 1ad06119b7b94274393d4cf5b3a71fdf, type: 3}
+    - time: 0.25
+      value: {fileID: 21300000, guid: a8d1425b100ca7145b6727fe09a75c78, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: 8299ed10faa00104990ed803c9413ab5, type: 3}
+    - time: 0.4166667
+      value: {fileID: 21300000, guid: 16707c06bc1883b4a8309503ed7f521f, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 78299a528a7b1d645ac16c111fe11070, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300000, guid: 8e169416d64dea748bb799c3c67c1e87, type: 3}
+    - time: 0.6666666
+      value: {fileID: 21300000, guid: efaa1a3b56acd7549b4feb9de936e84a, type: 3}
+    - time: 0.74999994
+      value: {fileID: 21300000, guid: 09ecd828dd5791549974ff2a5c50746d, type: 3}
+    - time: 0.83333325
+      value: {fileID: 21300000, guid: 1a509551e020a254d9bcde88230faa25, type: 3}
+    - time: 0.91666657
+      value: {fileID: 21300000, guid: 800fb9e1f902c034190f0ce749b55e8e, type: 3}
+    - time: 0.9999999
+      value: {fileID: 21300000, guid: 1256f922ac57c374c862db8bcf7278a0, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: b189196763c4f854187d3f53828f5192, type: 3}
+    - {fileID: 21300000, guid: d262e76a7a9475b4fac086f4e23ca632, type: 3}
+    - {fileID: 21300000, guid: 1ad06119b7b94274393d4cf5b3a71fdf, type: 3}
+    - {fileID: 21300000, guid: a8d1425b100ca7145b6727fe09a75c78, type: 3}
+    - {fileID: 21300000, guid: 8299ed10faa00104990ed803c9413ab5, type: 3}
+    - {fileID: 21300000, guid: 16707c06bc1883b4a8309503ed7f521f, type: 3}
+    - {fileID: 21300000, guid: 78299a528a7b1d645ac16c111fe11070, type: 3}
+    - {fileID: 21300000, guid: 8e169416d64dea748bb799c3c67c1e87, type: 3}
+    - {fileID: 21300000, guid: efaa1a3b56acd7549b4feb9de936e84a, type: 3}
+    - {fileID: 21300000, guid: 09ecd828dd5791549974ff2a5c50746d, type: 3}
+    - {fileID: 21300000, guid: 1a509551e020a254d9bcde88230faa25, type: 3}
+    - {fileID: 21300000, guid: 800fb9e1f902c034190f0ce749b55e8e, type: 3}
+    - {fileID: 21300000, guid: 1256f922ac57c374c862db8bcf7278a0, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.0833333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.25
+    functionName: PlayWalkSound0
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.8333333
+    functionName: PlayWalkSound1
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

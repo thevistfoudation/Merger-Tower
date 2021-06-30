@@ -1,0 +1,62 @@
+
+Orc Archer.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: false
+  xy: 2, 33
+  size: 165, 159
+  orig: 165, 159
+  offset: 0, 0
+  index: -1
+Group 12
+  rotate: false
+  xy: 168, 211
+  size: 303, 290
+  orig: 303, 290
+  offset: 0, 0
+  index: -1
+archery
+  rotate: false
+  xy: 2, 194
+  size: 164, 307
+  orig: 166, 310
+  offset: 1, 2
+  index: -1
+arrow
+  rotate: false
+  xy: 169, 154
+  size: 287, 55
+  orig: 290, 57
+  offset: 3, 1
+  index: -1
+chan
+  rotate: true
+  xy: 349, 18
+  size: 60, 94
+  orig: 60, 96
+  offset: 0, 1
+  index: -1
+dot
+  rotate: false
+  xy: 458, 157
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 169, 2
+  size: 178, 150
+  orig: 180, 152
+  offset: 1, 1
+  index: -1
+toc
+  rotate: false
+  xy: 349, 80
+  size: 128, 72
+  orig: 130, 74
+  offset: 1, 1
+  index: -1
